@@ -75,8 +75,6 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 					<img src="pic/valid-xhtml11" alt="Valid XHTML 1.1!" style="width:44px; height:16px; border:0;"/></a>
                     <a onclick="window.open(this.href,'_blank');return false;" href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fedojo.org%2Fcss%2FstyleTux.css&amp;profile=css3svg&amp;usermedium=all&amp;warning=1&amp;vextwarning=">
 		    		<img src="pic/vcss" alt="Valid CSS!" style="width:44px; height:16px; border:0;" /></a>
-				<a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png" /></a>
-				licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons licence</a>
 	</address>
 	</body>
 </html>
