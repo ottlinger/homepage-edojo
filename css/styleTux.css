@@ -1,0 +1,130 @@
+BODY{
+	color:black;
+	background:white;
+	margin-left:4%;
+	margin-right:4%;
+    font-family:Arial,Helvetica,Geneva,Swiss,SunSans-Regular,Serif,Sans-Serif;
+	font-size:12px;
+	line-height:15px;
+    text-align:left;
+	background-image: url(zeichen.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
+	background-position: 70% 8%; 
+}
+
+img.rand {
+  background-color: #eee;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 2em;
+}
+
+table.index {
+	background-color: white;
+	border-color: gray;
+	border-style: solid;
+	border-width: 0px;
+	padding: 0mm;
+	width: 50%;
+	text-align: center;
+}
+
+div {
+ text-align: center;
+}
+
+
+p
+{
+	color:black;
+	background:white;
+	margin-left:4%;
+	margin-right:4%;
+    font-family:Arial,Helvetica,Geneva,Swiss,SunSans-Regular,Serif,Sans-Serif;
+	font-size:12px;
+	line-height:15px;
+    text-align:center;
+}
+
+address.warn {
+color: green;
+background: white;
+font-weight:bold;
+}
+
+A:link A:visited
+{
+	background:white;
+	color:blue;
+}
+A:active
+{
+        background:white;
+	color:green;
+}
+a:hover {
+  color: blue;
+  background-color: #eee;
+}
+
+H1
+{
+	color:black;
+        background:white;
+        font-weight:bold;
+	margin-left:+6%;
+	font-size:18px;
+	line-height:21px;
+	text-align:center;
+}
+
+H1.blau
+{
+	color:#000099;
+    background:white;
+	font-weight:bold;
+	margin-left:+6%;
+	font-size:18px;
+	line-height:21px;
+	text-align:center;
+}
+ADDRESS{
+background:white;color:black;font-style:italic;font-size:14px;line-height:17px;text-align:right;
+  background-color: #eee;
+  border: 1px solid black;
+  padding: .25em;
+  width:92%;
+}
+
+HR
+{
+	width:85%;
+	line-height:2px;
+        text-align:center;
+}
+li
+{
+	margin-left:+6%;
+	font-size:13px;
+	line-height:18px;
+        text-align:left;
+}
+UL
+{
+	font-size:12px;
+	line-height:18px;
+	list-style-image:url("li.gif");
+	margin-left:-2%;
+}
+td,tr
+{
+	vertical-align:top;
+    text-align:left;
+}
+td.mittig,tr.mittig
+{
+	vertical-align:top;
+    text-align:center;
+}
