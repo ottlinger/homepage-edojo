@@ -22,7 +22,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 <title>eDojo.org - easy dojo management</title>
 </head>
 <body>
-					<h1>eDojo.org - easy dojo management</h1>
+		<h1><img src="pic/edojoTransparentSmall.png" alt="eDojo" /> - easy dojo management</h1>
 			<table class="index">
 				<tr class="mittig">
 					<td class="mittig">
