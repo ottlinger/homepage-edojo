@@ -3,9 +3,9 @@ BODY{
 	background:white;
 	margin-left:4%;
 	margin-right:4%;
-    font-family:Arial,Helvetica,Geneva,Swiss,SunSans-Regular,Serif,Sans-Serif;
-	font-size:12px;
-	line-height:15px;
+    font-family:Ubuntu,Arial,Helvetica,Geneva,Swiss,SunSans-Regular,Serif,Sans-Serif;
+	font-size:22px;
+	line-height:25px;
     text-align:left;
 	background-image: url(zeichen.gif);
 	background-repeat: no-repeat;
@@ -46,9 +46,7 @@ p
 	background:white;
 	margin-left:4%;
 	margin-right:4%;
-    font-family:Arial,Helvetica,Geneva,Swiss,SunSans-Regular,Serif,Sans-Serif;
-	font-size:12px;
-	line-height:15px;
+    font-family:Ubuntu,Arial,Helvetica,Geneva,Swiss,SunSans-Regular,Serif,Sans-Serif;
     text-align:center;
 }
 
@@ -79,8 +77,8 @@ H1
         background:white;
         font-weight:bold;
 	margin-left:+6%;
-	font-size:18px;
-	line-height:21px;
+	font-size:25px;
+	line-height:27px;
 	text-align:center;
 }
 
@@ -90,16 +88,18 @@ H1.blau
     background:white;
 	font-weight:bold;
 	margin-left:+6%;
-	font-size:18px;
-	line-height:21px;
+	font-size:25px;
+	line-height:27px;
 	text-align:center;
 }
+
 ADDRESS{
 background:white;color:black;font-style:italic;font-size:14px;line-height:17px;text-align:right;
   background-color: #eee;
   border: 1px solid black;
   padding: .25em;
   width:92%;
+	text-align: center;
 }
 
 HR
@@ -111,14 +111,14 @@ HR
 li
 {
 	margin-left:+6%;
-	font-size:13px;
-	line-height:20px;
+	font-size:20px;
+	line-height:22px;
         text-align:left;
 }
 UL
 {
-	font-size:14px;
-	line-height:20px;
+	font-size:20px;
+	line-height:22px;
 	list-style-image:url("li.gif");
 	margin-left:-2%;
 }

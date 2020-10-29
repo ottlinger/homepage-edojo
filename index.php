@@ -27,7 +27,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 			<table class="index">
 				<tr class="mittig">
 					<td class="mittig">
-						eDojo is hosted at Github:
+						<p>eDojo is hosted at Github:</p>
 						<ul>
   							<li>project home at <a onclick="window.open(this.href,'_blank');return false;" href="https://github.com/ottlinger/edojo/">Github edojo</a></li>
 								<li>source code:<a onclick="window.open(this.href,'_blank');return false;" href="https://www.gnu.org/licenses/gpl.html">GPL v3</a> licensed</li>
@@ -37,7 +37,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 				</tr>
 				<tr>
 					<td class="mittig">
-						If eDojo is completed, it's supposed to help you with the following things:
+						<p>If eDojo is completed, it's supposed to help you with the following things:</p>
 						<ul>
 								<li>manage your dojo's members electronically</li>
 								<li>manage member fees and payment information</li>
@@ -47,19 +47,17 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 								<li>visualize your dojo's success</li>
                 <li>available subproject to manage seminar subscriptions: <a onclick="window.open(this.href,'_blank');return false;" href="https://github.com/ottlinger/hornherzogen">Herzogenhorn</a></li>
 						</ul>
-														<br /><br />
-							If you need help or would like to participate in the development - feel free to contact us
+							<p>If you need help or would like to participate in the development - feel free to contact us
 
 <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#101;&#100;&#111;&#106;&#111;&#46;&#111;&#114;&#103;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#119;&#101;&#98;&#112;&#97;&#103;&#101;" title="Kontakt- und Infomail">
 &#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#101;&#100;&#111;&#106;&#111;&#46;&#111;&#114;&#103;
 </a>
-														<br />
-														<br />
+</p>
                                         </td>
 				</tr>
 				<tr class="mittig">
 					<td class="mittig">
-						eDojo's technical requirements are:
+						<p>eDojo's technical requirements are:</p>
 						<ul>
 								<li>relational database such as <a onclick="window.open(this.href,'_blank');return false;" href="https://www.postgresql.org/">PostgreSQL</a> or
 								<a onclick="window.open(this.href,'_blank');return false;" href="https://www.mysql.de/">MySQL</a> or</li>
