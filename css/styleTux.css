@@ -11,7 +11,7 @@ BODY{
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-attachment: fixed;
-	background-position: 65% 15%; 
+	background-position: 65% 15%;
 }
 
 img.rand {
@@ -34,7 +34,6 @@ table.index {
 div {
  text-align: center;
 }
-
 
 p
 {
@@ -108,13 +107,13 @@ li
 {
 	margin-left:+6%;
 	font-size:13px;
-	line-height:18px;
+	line-height:20px;
         text-align:left;
 }
 UL
 {
-	font-size:12px;
-	line-height:18px;
+	font-size:14px;
+	line-height:20px;
 	list-style-image:url("li.gif");
 	margin-left:-2%;
 }

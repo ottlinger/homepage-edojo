@@ -27,11 +27,11 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 			<table class="index">
 				<tr class="mittig">
 					<td class="mittig">
-						eDojo is hosted at Github under the following licence:
+						eDojo is hosted at Github:
 						<ul>
-								<li>source code:<a onclick="window.open(this.href,'_blank');return false;" href="https://www.gnu.org/licenses/gpl.html">GPL v3</a></li>
+  							<li>project home at <a onclick="window.open(this.href,'_blank');return false;" href="https://github.com/ottlinger/edojo/">Github edojo</a></li>
+								<li>source code:<a onclick="window.open(this.href,'_blank');return false;" href="https://www.gnu.org/licenses/gpl.html">GPL v3</a> licensed</li>
 								<li>additional content:<a onclick="window.open(this.href,'_blank');return false;" href="https://creativecommons.org/licenses/by/3.0/">CreativeCommons 3 BY</a></li>
-								<li>project home at <a onclick="window.open(this.href,'_blank');return false;" href="https://github.com/ottlinger/edojo/">Github edojo</a></li>
 						</ul>
 					</td>
 				</tr>
