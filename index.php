@@ -10,9 +10,9 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
 <meta name="DC.Title" content="eDojo.org - easy dojo management"/>
-<meta name="DC.Author" content="Aiki IT Berlin"/>
-<meta name="DC.Publisher" content="Aiki IT Berlin"/>
-<meta name="DC.Copyright" content="(C) Aiki IT Berlin 1996-<?php echo date('Y'); ?>"/>
+<meta name="DC.Author" content="Aiki IT Berlin, Beelitz"/>
+<meta name="DC.Publisher" content="Aiki IT Berlin, Beelitz"/>
+<meta name="DC.Copyright" content="(C) Aiki IT Berlin, Beelitz 1996-<?php echo date('Y'); ?>"/>
 <meta name="Revisit" content="After 5 days"/>
 <meta name="DC.keywords" content="a software for managing dojos electronically"/>
 <meta name="DC.Description" content="Praesentationsseiten"/>
