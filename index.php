@@ -19,6 +19,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 <meta name="Robots" content="INDEX,FOLLOW"/>
 <meta name="DC.Language" content="de"/>
 <meta name="DC.Date" content="<?php echo $dateOfChange; ?>"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>eDojo.org - easy dojo management</title>
 </head>
 <body>
