@@ -89,7 +89,7 @@
                         <article>
                             <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
                             <header>
-                                <h3><a href="#">Java</a></h3>
+                                <h3><a href="#">Gradle</a></h3>
                             </header>
                             <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
                         </article>
@@ -105,7 +105,7 @@
 						<article>
 							<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Sed quis rhoncus placerat</a></h3>
+								<h3><a href="#">PostgreSQL</a></h3>
 							</header>
 							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
 						</article>
@@ -113,7 +113,7 @@
 						<article>
 							<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Ultrices urna sit lobortis</a></h3>
+								<h3><a href="#">Spring Boot</a></h3>
 							</header>
 							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
 						</article>
