@@ -200,7 +200,7 @@
                 <article id="main" class="container special">
                     <a href="#" class="image featured"><img src="images/dojo.jpg" alt="" /></a>
                     <header>
-                        <h2><a href="#">Subproject hornherzogen (2017)</a></h2>
+                        <h2>Subproject hornherzogen (2017)</h2>
                         <p>Manage seminar subscriptions</p>
                     </header>
                     <p>
@@ -213,7 +213,7 @@
                         It consists of a user-facing enrollment UI and an admin interface to manage available rooms and send out confirmation mails.
                     </p>
                     <footer>
-                        <a href="https://github.com/ottlinger/hornherzogen" class="button">Continue Reading</a>
+                        <a href="https://github.com/ottlinger/hornherzogen" class="button">Browse the code</a>
                     </footer>
                 </article>
 
