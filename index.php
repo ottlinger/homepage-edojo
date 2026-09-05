@@ -4,6 +4,20 @@
         <title>eDojo.org - easy dojo management</title>
         <meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png"/>
+        <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="manifest" href="/site.webmanifest" />
+        <meta name="DC.Title" content="eDojo.org - easy dojo management"/>
+        <meta name="DC.Author" content="Aiki IT Berlin, Beelitz"/>
+        <meta name="DC.Publisher" content="Aiki IT Berlin, Beelitz"/>
+        <meta name="DC.Copyright" content="(C) Aiki IT Berlin, Beelitz 1996-2026"/>
+        <meta name="Revisit" content="After 5 days"/>
+        <meta name="DC.keywords" content="a software for managing dojos electronically"/>
+        <meta name="Robots" content="INDEX,FOLLOW"/>
+        <meta name="DC.Language" content="english"/>
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
