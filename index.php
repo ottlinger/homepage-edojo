@@ -37,7 +37,10 @@
 						</div>
 						<nav id="nav">
 							<ul>
-								<li><a href="/">Home</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="#techstack">TechStack</a></li>
+                                <li><a href="#edojo-features">Features</a></li>
+                                <li><a href="#footer">Contact</a></li>
                                 <?php
                                 /*
 								<li>
@@ -80,7 +83,7 @@
 				</section>
 
 			<!-- Carousel -->
-				<section class="carousel">
+				<section id="techstack" class="carousel">
 					<div class="reel">
 
                         <article>
@@ -167,7 +170,7 @@
 				</section>
 
 			<!-- Features -->
-				<div class="wrapper style1">
+				<div id="edojo-features" class="wrapper style1">
 
 					<section id="features" class="container special">
 						<header>
@@ -245,7 +248,7 @@
 								<!-- Contact -->
 									<section class="contact">
 										<header>
-											<h3>More ideas?</h3>
+											<h3>More ideas? Get in touch</h3>
 										</header>
 										<p>You may find the project at GitHub or contact us directly.</p>
 										<ul class="icons">
