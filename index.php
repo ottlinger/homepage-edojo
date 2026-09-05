@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 	<head>
         <title>eDojo.org - easy dojo management</title>
         <meta charset="utf-8" />
@@ -13,7 +13,7 @@
 				<div id="header">
 						<div class="inner">
 							<header>
-								<h1><a href="index.html" id="logo">eDojo</a></h1>
+								<h1><a href="/" id="logo">eDojo</a></h1>
 								<hr />
 								<p>easy dojo management</p>
 							</header>
