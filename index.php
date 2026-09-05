@@ -85,9 +85,8 @@
 			<!-- Carousel -->
 				<section id="techstack" class="carousel">
 					<div class="reel">
-
                         <article>
-                            <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+                            <a href="https://gradle.org/" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
                             <header>
                                 <h3><a href="https://gradle.org/">Gradle</a></h3>
                             </header>
@@ -95,7 +94,7 @@
                         </article>
 
 						<article>
-							<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+							<a href="https://java.sun.com/" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
 							<header>
 								<h3><a href="https://java.sun.com/">Java</a></h3>
 							</header>
@@ -103,7 +102,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+							<a href="https://www.postgresql.org/" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 							<header>
 								<h3><a href="https://www.postgresql.org/">PostgreSQL</a></h3>
 							</header>
@@ -111,7 +110,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+							<a href="https://projects.spring.io/spring-boot/" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
 							<header>
 								<h3><a href="https://projects.spring.io/spring-boot/">Spring Boot</a></h3>
 							</header>
@@ -119,13 +118,12 @@
 						</article>
 
                         <article>
-                            <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+                            <a href="https://projects.spring.io/spring-data/" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
                             <header>
                                 <h3><a href="https://projects.spring.io/spring-data/">Spring Data</a></h3>
                             </header>
                             <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
                         </article>
-
 					</div>
 				</section>
 
@@ -138,7 +136,7 @@
 						</header>
 						<div class="row">
 							<article class="col-4 col-12-mobile special">
-								<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+								<a href="#edojo-features" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
 								<header>
 									<h3><a href="#">manage your dojo's members electronically</a></h3>
 								</header>
@@ -202,9 +200,8 @@
 				</div>
             <!-- Main -->
             <div class="wrapper style2">
-
                 <article id="main" class="container special">
-                    <a href="#" class="image featured"><img src="images/dojo.jpg" alt="" /></a>
+                    <a href="#main" class="image featured"><img src="images/dojo.jpg" alt="" /></a>
                     <header>
                         <h2>Subproject hornherzogen (2017)</h2>
                         <p>Manage seminar subscriptions</p>
@@ -219,13 +216,10 @@
                         It consists of a user-facing enrollment UI and an admin interface to manage available rooms and send out confirmation mails.
                     </p>
                     <footer>
-                        <a href="https://github.com/ottlinger/hornherzogen" class="button">Browse the code</a>
+                        <a href="https://github.com/ottlinger/hornherzogen" target="_blank" class="button">Browse the code</a>
                     </footer>
                 </article>
-
             </div>
-
-
 
             <!-- Footer -->
 				<div id="footer">
@@ -233,7 +227,6 @@
 						<hr />
 						<div class="row">
 							<div class="col-12">
-
 								<!-- Contact -->
 									<section class="contact">
 										<header>
@@ -245,20 +238,16 @@
                                             <li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#101;&#100;&#111;&#106;&#111;&#46;&#111;&#114;&#103;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#119;&#101;&#98;&#112;&#97;&#103;&#101;" target="_blank" class="icon fa-envelope"><span class="label">E-Mail</span></a></li>
 										</ul>
 									</section>
-
 								<!-- Copyright -->
 									<div class="copyright">
 										<ul class="menu">
                                             <li>&copy; 2015-<?php echo date('Y'); ?> eDojo.org team. All rights reserved.</li><li>Design: <a href="https://html5up.net/helios">Helios - HTML5 UP</a></li><li>Images taken from <a href="https://unsplash.com">unsplash.com</a></li>
 										</ul>
 									</div>
-
 							</div>
-
 						</div>
 					</div>
 				</div>
-
 		</div>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.dropotron.min.js"></script>
