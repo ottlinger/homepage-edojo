@@ -7,6 +7,16 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
+#header .inner header h1,
+#header .inner header h1 a,
+#header .inner header p {
+	font-weight: bold;
+	color: #17251f !important;
+	text-shadow: 0 1px 3px rgba(255,255,255,0.35);
+}
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
