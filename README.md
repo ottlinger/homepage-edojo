@@ -1,5 +1,5 @@
 # homepage-edojo
 
-Homepage of https://edojo.org
+New homepage of https://edojo.org
 
 ![Logo](./pic/edojoTransparentSmall.png)
