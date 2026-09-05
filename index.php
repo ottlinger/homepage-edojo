@@ -16,9 +16,9 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<h1><a href="index.html" id="logo">Helios</a></h1>
+								<h1><a href="index.html" id="logo">eDojo</a></h1>
 								<hr />
-								<p>Another fine freebie by HTML5 UP</p>
+								<p>easy dojo management</p>
 							</header>
 							<footer>
 								<a href="#banner" class="button circled scrolly">Start</a>
@@ -345,7 +345,7 @@
 										<p>You can find the project at GitHub.</p>
 										<ul class="icons">
                                             <li><a href="https://www.github.com/ottlinger/edojo" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-                                            <li><a href="https://www.github.com/ottlinger/edojo" target="_blank" class="icon fa-mail-bulk"><span class="label">E-Mail</span></a></li>
+                                            <li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#101;&#100;&#111;&#106;&#111;&#46;&#111;&#114;&#103;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#119;&#101;&#98;&#112;&#97;&#103;&#101;" target="_blank" class="icon fa-envelope"><span class="label">E-Mail</span></a></li>
 										</ul>
 									</section>
 
