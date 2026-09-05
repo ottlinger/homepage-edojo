@@ -11,8 +11,6 @@
 		<div id="page-wrapper">
 			<!-- Header -->
 				<div id="header">
-
-					<!-- Inner -->
 						<div class="inner">
 							<header>
 								<h1><a href="index.html" id="logo">eDojo</a></h1>
@@ -23,12 +21,12 @@
 								<a href="#banner" class="button circled scrolly">Enter</a>
 							</footer>
 						</div>
-
-					<!-- Nav -->
 						<nav id="nav">
 							<ul>
 								<li><a href="/">Home</a></li>
-								<!--li>
+                                <?php
+                                /*
+								<li>
 									<a href="#">Dropdown</a>
 									<ul>
 										<li><a href="#">Lorem ipsum dolor</a></li>
@@ -45,10 +43,11 @@
 										</li>
 										<li><a href="#">Veroeros feugiat</a></li>
 									</ul>
-								</li-->
+								</li>
+                                */
+                                ?>
 							</ul>
 						</nav>
-
 				</div>
 
 			<!-- Banner -->
@@ -234,7 +233,7 @@
 										<header>
 											<h3>More ideas?</h3>
 										</header>
-										<p>You can find the project at GitHub.</p>
+										<p>You may find the project at GitHub or contact us directly.</p>
 										<ul class="icons">
                                             <li><a href="https://www.github.com/ottlinger/edojo" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
                                             <li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#101;&#100;&#111;&#106;&#111;&#46;&#111;&#114;&#103;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#119;&#101;&#98;&#112;&#97;&#103;&#101;" target="_blank" class="icon fa-envelope"><span class="label">E-Mail</span></a></li>
@@ -244,7 +243,7 @@
 								<!-- Copyright -->
 									<div class="copyright">
 										<ul class="menu">
-											<li>&copy; 2015-<?php echo date('Y'); ?> eDojo.org team. All rights reserved.</li><li>Design: <a href="https://html5up.net/helios">Helios - HTML5 UP</a></li>
+                                            <li>&copy; 2015-<?php echo date('Y'); ?> eDojo.org team. All rights reserved.</li><li>Design: <a href="https://html5up.net/helios">Helios - HTML5 UP</a></li><li>Images taken from <a href="https://unsplash.com">unsplash.com</a></li>
 										</ul>
 									</div>
 
@@ -255,8 +254,6 @@
 				</div>
 
 		</div>
-
-		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.dropotron.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
