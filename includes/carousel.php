@@ -37,7 +37,7 @@
             <header>
                 <h3><a href="https://projects.spring.io/spring-data/">Spring Data</a></h3>
             </header>
-            <p>Spring Data makes working with your database easier.</p>
+            <p>Spring Data (part of Spring Boot) makes working with your database easier.</p>
         </article>
     </div>
 </section>
