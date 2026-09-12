@@ -5,7 +5,7 @@
             <header>
                 <h3><a href="https://gradle.org/">Gradle</a></h3>
             </header>
-            <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+            <p>The build tool used is Gradle. It runs tests and builds the project.</p>
         </article>
 
         <article>
@@ -13,7 +13,7 @@
             <header>
                 <h3><a href="https://java.sun.com/">Java</a></h3>
             </header>
-            <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+            <p>Java code is compiled into bytecode, which runs on the JVM.</p>
         </article>
 
         <article>
@@ -21,7 +21,7 @@
             <header>
                 <h3><a href="https://www.postgresql.org/">PostgreSQL</a></h3>
             </header>
-            <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+            <p>PostgreSQL (often called Postgres) is a database management system.</p>
         </article>
 
         <article>
@@ -29,7 +29,7 @@
             <header>
                 <h3><a href="https://projects.spring.io/spring-boot/">Spring Boot</a></h3>
             </header>
-            <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+            <p>Spring Boot is a framework to build web apps or backend services.</p>
         </article>
 
         <article>
@@ -37,7 +37,7 @@
             <header>
                 <h3><a href="https://projects.spring.io/spring-data/">Spring Data</a></h3>
             </header>
-            <p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+            <p>Spring Data makes working with your database easier.</p>
         </article>
     </div>
 </section>
