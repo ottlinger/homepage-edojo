@@ -2,7 +2,7 @@
     <div class="inner">
         <header>
             <h1><a href="/" id="logo">eDojo</a></h1>
-            <hr />
+            <hr/>
             <p>easy dojo management</p>
         </header>
         <footer>
