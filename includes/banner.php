@@ -12,17 +12,14 @@
             project home is: <a href="https://github.com/ottlinger/edojo/">edojo</a>
             source code: <a href="https://www.gnu.org/licenses/gpl.html">GPL v3</a> licensed
         </p>
+        <h2>Why eDojo?</h2>
         <p>
-        <ul>
-            <li><strong>Open source</strong> – not a proprietary black box</li>
-            <li><strong>Self-hosted</strong> – full control over your own data</li>
-            <li><strong>Designed for dojos</strong> – rather than generic club software</li>
-            <li>No unnecessary complexity</li>
-            <li>Data protection-friendly</li>
-        </ul>
+            <strong>Open source</strong> – not a proprietary black box<br/>
+            <strong>Self-hosted</strong> – full control over your own data<br/>
+            <strong>Designed for dojos</strong> – rather than generic club software<br/>
+            No unnecessary complexity<br/>
+            Data protection-friendly
         </p>
-        <p>
-            Technologies in use are:
-        </p>
+        <h2>Technologies in use are:</h2>
     </header>
 </section>
