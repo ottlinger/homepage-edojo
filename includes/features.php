@@ -55,9 +55,8 @@
                     <h3>keep track of member attendance</h3>
                 </header>
                 <p>
-                    Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-                    porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer
-                    interdum.
+                    See which sessions attract the most members and which members attend most often. Get a clear view of
+                    attendance patterns so you can understand what’s working and keep your members engaged.
                 </p>
             </article>
             <article class="col-4 col-12-mobile special">
@@ -66,9 +65,9 @@
                     <h3>visualise your dojo's success</h3>
                 </header>
                 <p>
-                    Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-                    porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer
-                    interdum.
+                    See when your members attend training, track participation over time, and turn your data into
+                    actionable insights. Explore detailed dashboards to understand your break-even point, identify your
+                    most popular training sessions, and make smarter decisions for your dojo.
                 </p>
             </article>
         </div>
