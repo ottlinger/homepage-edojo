@@ -51,8 +51,9 @@
                     <h3>Keep track of member attendance</h3>
                 </header>
                 <p>
-                    See which sessions attract the most members and which members attend most often. Get a clear view of
-                    attendance patterns so you can understand what’s working and keep your members engaged.
+                    Track attendance across weeks, months, quarters, or years and see how participation changes over
+                    time. Discover which training sessions are most popular and get a clear picture of your dojo’s
+                    attendance.
                 </p>
             </article>
             <article class="col-4 col-12-mobile special">
