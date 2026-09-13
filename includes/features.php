@@ -11,9 +11,8 @@
                     <h3>Manage your dojo's members electronically</h3>
                 </header>
                 <p>
-                    Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-                    porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer
-                    interdum.
+                    Keep member information organised and accessible, from contact details and mailing lists to ages and
+                    personal notes.
                 </p>
             </article>
             <article class="col-4 col-12-mobile special">
@@ -22,9 +21,8 @@
                     <h3>Manage member fees and payment information</h3>
                 </header>
                 <p>
-                    Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-                    porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer
-                    interdum.
+                    Keep track of outstanding payments, review payment history, and get a clear financial overview of
+                    your dojo. Stay on top of your finances without the hassle.
                 </p>
             </article>
             <article class="col-4 col-12-mobile special">
