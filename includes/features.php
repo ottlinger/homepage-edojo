@@ -8,7 +8,7 @@
             <article class="col-4 col-12-mobile special">
                 <a href="#edojo-features" class="image featured"><img src="images/pic07.jpg" alt=""/></a>
                 <header>
-                    <h3><a href="#">manage your dojo's members electronically</a></h3>
+                    <h3>manage your dojo's members electronically</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -19,7 +19,7 @@
             <article class="col-4 col-12-mobile special">
                 <a href="#" class="image featured"><img src="images/pic08.jpg" alt=""/></a>
                 <header>
-                    <h3><a href="#">manage member fees and payment information</a></h3>
+                    <h3>manage member fees and payment information</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -30,7 +30,7 @@
             <article class="col-4 col-12-mobile special">
                 <a href="#" class="image featured"><img src="images/pic09.jpg" alt=""/></a>
                 <header>
-                    <h3><a href="#">manage graduation fees and status</a></h3>
+                    <h3>>manage graduation fees and status</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -41,7 +41,7 @@
             <article class="col-4 col-12-mobile special">
                 <a href="#" class="image featured"><img src="images/pic07.jpg" alt=""/></a>
                 <header>
-                    <h3><a href="#">manage and book payment of trainers</a></h3>
+                    <h3>manage and book payment of trainers</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -52,7 +52,7 @@
             <article class="col-4 col-12-mobile special">
                 <a href="#" class="image featured"><img src="images/pic08.jpg" alt=""/></a>
                 <header>
-                    <h3><a href="#">keep track of member attendance</a></h3>
+                    <h3>keep track of member attendance</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -63,7 +63,7 @@
             <article class="col-4 col-12-mobile special">
                 <a href="#" class="image featured"><img src="images/pic09.jpg" alt=""/></a>
                 <header>
-                    <h3><a href="#">visualise your dojo's success</a></h3>
+                    <h3>visualise your dojo's success</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
