@@ -31,20 +31,18 @@
                     <h3>Manage graduation fees and status</h3>
                 </header>
                 <p>
-                    Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-                    porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer
-                    interdum.
+                    Track graduation status and fees, see who has graduated or opted out, and get a clear visual
+                    overview of your dojo’s progress.
                 </p>
             </article>
             <article class="col-4 col-12-mobile special">
                 <img src="images/pic07.jpg" class="image featured" alt=""/>
                 <header>
-                    <h3>Manage and book payment of trainers</h3>
+                    <h3>Manage trainer payments</h3>
                 </header>
                 <p>
-                    Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-                    porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer
-                    interdum.
+                    Track trainer work and payments in one place, monitor payment totals, and quickly spot when tax
+                    thresholds may need attention.
                 </p>
             </article>
             <article class="col-4 col-12-mobile special">
