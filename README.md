@@ -22,3 +22,11 @@ New homepage of https://edojo.org
 * https://unsplash.com/photos/aerial-photography-of-flowers-at-daytime-TRhGEGdw-YY
 * https://unsplash.com/photos/low-angle-photo-of-cherry-blossoms-tree-sKJ7zSylUao
 * https://unsplash.com/photos/a-branch-with-pink-flowers-against-a-blue-sky-18id_pdLBxI
+
+## Technology stack - 368x256
+
+* https://unsplash.com/photos/gray-concrete-building-covered-trees-dqXiw7nCb9Q
+* https://unsplash.com/photos/a-wooden-block-spelling-data-on-a-table-kA7zREkzrBw
+* https://unsplash.com/photos/a-wall-full-of-many-drawers-in-a-room-t2w1n1jdUlY
+* https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-text-on-it-PUXFKuVf_84
+* https://unsplash.com/photos/blue-and-yellow-plastic-blocks-HpMihL323k0
