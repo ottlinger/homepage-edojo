@@ -8,7 +8,7 @@
             <article class="col-4 col-12-mobile special">
                 <img src="images/pic07.jpg" class="image featured" alt=""/>
                 <header>
-                    <h3>manage your dojo's members electronically</h3>
+                    <h3>Manage your dojo's members electronically</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -19,7 +19,7 @@
             <article class="col-4 col-12-mobile special">
                 <img src="images/pic08.jpg" class="image featured" alt=""/>
                 <header>
-                    <h3>manage member fees and payment information</h3>
+                    <h3>Manage member fees and payment information</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -30,7 +30,7 @@
             <article class="col-4 col-12-mobile special">
                 <img src="images/pic09.jpg" class="image featured" alt=""/>
                 <header>
-                    <h3>manage graduation fees and status</h3>
+                    <h3>Manage graduation fees and status</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -41,7 +41,7 @@
             <article class="col-4 col-12-mobile special">
                 <img src="images/pic07.jpg" class="image featured" alt=""/>
                 <header>
-                    <h3>manage and book payment of trainers</h3>
+                    <h3>Manage and book payment of trainers</h3>
                 </header>
                 <p>
                     Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -52,7 +52,7 @@
             <article class="col-4 col-12-mobile special">
                 <img src="images/pic08.jpg" class="image featured" alt=""/>
                 <header>
-                    <h3>keep track of member attendance</h3>
+                    <h3>Keep track of member attendance</h3>
                 </header>
                 <p>
                     See which sessions attract the most members and which members attend most often. Get a clear view of
@@ -62,7 +62,7 @@
             <article class="col-4 col-12-mobile special">
                 <img src="images/pic09.jpg" class="image featured" alt=""/>
                 <header>
-                    <h3>visualise your dojo's success</h3>
+                    <h3>Visualise your dojo's success</h3>
                 </header>
                 <p>
                     See when your members attend training, track participation over time, and turn your data into
