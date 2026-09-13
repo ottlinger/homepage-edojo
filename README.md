@@ -14,7 +14,7 @@ New homepage of https://edojo.org
 * https://unsplash.com/de/fotos/photo-of-5-story-library-building-PkbZahEG2Ng
 * https://unsplash.com/de/fotos/ein-stapel-gestapelter-blauer-und-weisser-teller-n7eJHQwefeI
 
-## Feature pics (spring)
+## Feature pics (spring) - 368x256
 
 * https://unsplash.com/photos/pink-and-white-flowers-under-white-sky-during-daytime-kxvn1ogpTtE
 * https://unsplash.com/photos/white-flowers-in-shallow-focus-photography-YnNczu62rdk
