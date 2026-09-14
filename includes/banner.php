@@ -7,12 +7,7 @@
         <p>
             Members, membership fees, exams, attendance records and instructors – all in one place.
         </p>
-        <p>
-            eDojo is hosted at GitHub;
-            project home is: <a href="https://github.com/ottlinger/edojo/">edojo</a>
-            source code: <a href="https://www.gnu.org/licenses/gpl.html">GPL v3</a> licensed
-        </p>
-        <h2>Why eDojo?</h2>
+        <h2>Why <img src="../pic/edojoTransparentSmall.png" alt="eDojo Logo"/>?</h2>
         <p>
             <strong>Open source</strong> – not a proprietary black box<br/>
             <strong>Self-hosted</strong> – full control over your own data<br/>
@@ -20,6 +15,12 @@
             No unnecessary complexity<br/>
             Data protection-friendly
         </p>
-        <h2>Technologies in use are:</h2>
+        <h2>Project details</h2>
+        <p>
+            eDojo is hosted at GitHub;<br/>
+            project home is: <a href="https://github.com/ottlinger/edojo/">edojo</a><br/>
+            source code: <a href="https://www.gnu.org/licenses/gpl.html">GPL v3</a> licensed
+        </p>
+        <h2 id="techstack">Technologies in use are:</h2>
     </header>
 </section>

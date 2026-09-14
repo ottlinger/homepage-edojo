@@ -1,4 +1,4 @@
-<section id="techstack" class="carousel">
+<section class="carousel">
     <div class="reel">
         <article>
             <a href="https://gradle.org/" class="image featured"><img src="images/tech01.jpg" alt="Gradle"/></a>

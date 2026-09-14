@@ -12,7 +12,7 @@
     <nav id="nav">
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="#techstack">TechStack</a></li>
+            <li><a href="#techstack">Technology</a></li>
             <li><a href="#edojo-features">Features</a></li>
             <li><a href="#footer">Contact</a></li>
             <?php
