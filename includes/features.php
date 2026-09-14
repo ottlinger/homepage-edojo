@@ -67,6 +67,7 @@
                     most popular training sessions, and make smarter decisions for your dojo.
                 </p>
             </article>
+            <a href="/" class="icon solid fa-arrow-up"><span class="label"></span> nach oben</a>
         </div>
     </section>
 </div>

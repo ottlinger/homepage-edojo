@@ -42,4 +42,5 @@
             <p>Spring Data (part of Spring Boot) makes working with your database easier.</p>
         </article>
     </div>
+    <a href="/" class="icon solid fa-arrow-up"><span class="label"></span> nach oben</a>
 </section>

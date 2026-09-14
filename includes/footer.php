@@ -3,7 +3,6 @@
         <hr/>
         <div class="row">
             <div class="col-12">
-                <!-- Contact -->
                 <section class="contact">
                     <header>
                         <h3>More ideas? Get in touch</h3>
@@ -15,9 +14,9 @@
                         <li>
                             <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#101;&#100;&#111;&#106;&#111;&#46;&#111;&#114;&#103;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#119;&#101;&#98;&#112;&#97;&#103;&#101;"
                                target="_blank" class="icon fa-envelope"><span class="label">E-Mail</span></a></li>
+                        <li><a href="/" class="icon solid fa-arrow-up"><span class="label">GitHub</span></a></li>
                     </ul>
                 </section>
-                <!-- Copyright -->
                 <div class="copyright">
                     <ul class="menu">
                         <li>&copy; 2015-<?php echo date('Y'); ?> eDojo.org team. All rights reserved.</li>

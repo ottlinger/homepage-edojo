@@ -20,5 +20,6 @@
         <footer>
             <a href="https://github.com/ottlinger/hornherzogen" target="_blank" class="button">Browse the code</a>
         </footer>
+        <a href="/" class="icon solid fa-arrow-up"><span class="label"></span> nach oben</a>
     </article>
 </div>
